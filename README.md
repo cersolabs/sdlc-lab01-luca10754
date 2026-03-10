@@ -20,7 +20,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 2. ¿Qué significa que un desarrollo sea dirigido por un plan?
 
-   R:
+   R:Lo que significa es que el desarrollo comienza analizando cuáles son las necesidades del cliente y, en base a estas, elaborar un plan detallado para desarrollar el software. Este plan será el que vaya guiando una serie de etapas sucesivas, hasta que finalmente el sistema queda funcionando.
 
 3. ¿Cuáles son las ventajas de utilizar un plan de desarrollo?
 
