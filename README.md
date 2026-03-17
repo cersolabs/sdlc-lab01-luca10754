@@ -126,13 +126,24 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 
 - ¿Qué modelo de desarrollo recomendaría? 
 
-  R: 
+  R: Usaria el modelo en cascada(lineal)
+  
 - Justifique su respuesta.
-
-  R:
+  
+  R: Ya que al ser pequeño puedo acordar los requerimientos desde un principio y ya tener un plan de como sera el proyecto y cuanto tiempo tomara hacerlo 
+  
 - ¿Qué etapas principales tendría el desarrollo?
 
   R:
+  - Análisis (consultar con el cliente todos los requisitos)
+
+  - Diseño (hacer los planos de cómo va a ser el sistema)
+
+  - Codificación (programar)
+
+  - Prueba (probar que funcione correctamente el software)
+
+  - Despliegue (desplegar el código del software en la máquina del comercio)
 
 ### Actividad 7 – Verdadero o Falso
 Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
