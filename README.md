@@ -39,7 +39,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 | Etapa                         | Descripción |
 | ----------------------------- | ----------- |
-| Análisis                      |   Los analistas llevan a cabo un relevamiento exhaustivo de la organización para 
+| Análisis                      |  Los analistas llevan a cabo un relevamiento exhaustivo de la organización para 
 identificar sus necesidades y los problemas que deben abordarse mediante un 
 sistema informático. El resultado de este proceso es la elaboración de un documento que, siguiendo reglas y convenciones específicas, capture todos los requerimientos de los usuarios. Asimismo, se deben identificar y tener en cuenta 
 las restricciones y limitaciones pertinentes.          |
