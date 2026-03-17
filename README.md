@@ -79,11 +79,12 @@ Ordene las siguientes etapas según corresponda  Diseño
 - Despliegue
 - Ingeniería de requerimientos
 ---
-R: 1 ingeneria de requerimientos
-   2 diseño
-   3 codificación 
-   4 prueba 
-   5 despliegue 
+R:
+ -  1 ingeneria de requerimientos
+ -  2 diseño
+ -  3 codificación 
+ -  4 prueba 
+ -  5 despliegue 
 
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
