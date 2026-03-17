@@ -59,13 +59,17 @@ el nuevo software.          |
 * Luego responda:
   * ¿En qué etapa se obtienen los requerimientos del sistema?
     
-    R:
+    R: Los requerimientos se obtienen en la etapa de análisis
+    
   * ¿En qué etapa se construye el programa?
 
-    R:
+    R: El programa se construye en la etapa codificación 
+    
   * ¿Cuál es el objetivo principal de las pruebas?
     
-    R:
+    R:se encarga de identificar posibles errores en el sistema antes 
+de su puesta en uso, con el objetivo de reportarlos y corregirlos.
+    
 ### Actividad 3
 Ordene las siguientes etapas según corresponda  Diseño
 -al modelo lineal secuencial:
@@ -75,7 +79,11 @@ Ordene las siguientes etapas según corresponda  Diseño
 - Despliegue
 - Ingeniería de requerimientos
 ---
-R:
+R: 1 ingeneria de requerimientos
+   2 diseño
+   3 codificación 
+   4 prueba 
+   5 despliegue 
 
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
