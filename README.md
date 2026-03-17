@@ -89,10 +89,11 @@ R:
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
     
-    R:
+    R:los errores u omisiones de una etapa se arrastran con facilidad a etapas posteriores,
   * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
 
-    R:
+    R: Porque el modelo esta diseño para que los requerimientos se establezcan al principio, si el cliente cambia los requerimientos durante una etapa posterior puede retrazar el trabajo haciendo que se atrase el tiempo de entrega, teniendo que aumentar los costos
+    
 ### Actividad 4
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
