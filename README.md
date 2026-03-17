@@ -106,7 +106,12 @@ Complete la siguiente tabla.
 
 - Responder:
   - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
+
+    R: El modelo mas adecuado es el modelo en espiral, ya que este modelo le agrega un analisis riguroso a todas las etapas
+    
   - ¿Qué modelo ayuda a comprender mejor los requerimientos del usuario?
+    
+    R:El modelo que ayuda a entender mejor los requerimientos es el prototipo ya que crea un prototipo de lo que terminara siendo el original y le permite al usuario interactuar con lo que sera el software.
     
 ### Actividad 5 – Caso práctico
 Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
