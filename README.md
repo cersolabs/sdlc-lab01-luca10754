@@ -39,11 +39,21 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 | Etapa                         | Descripción |
 | ----------------------------- | ----------- |
-| Análisis                      |             |
-| Diseño                        |             |
-| Codificación                  |             |
-| Prueba                        |             |
-| Puesta en marcha / Despliegue |             |
+| Análisis                      |   Los analistas llevan a cabo un relevamiento exhaustivo de la organización para 
+identificar sus necesidades y los problemas que deben abordarse mediante un 
+sistema informático. El resultado de este proceso es la elaboración de un documento que, siguiendo reglas y convenciones específicas, capture todos los requerimientos de los usuarios. Asimismo, se deben identificar y tener en cuenta 
+las restricciones y limitaciones pertinentes.          |
+| Diseño                        |     Se elabora el diseño de una solución informática que aborde los problemas 
+identificados, teniendo en cuenta los requerimientos obtenidos en la fase 
+anterior y respetando las restricciones establecidas. Se genera una documentación detallada y técnica que permita a los programadores construir el código de manera efectiva.        |
+| Codificación                  |      Los programadores llevan a cabo la etapa de codificación siguiendo las 
+especificaciones del diseño, donde construyen el código del software 
+empleando un lenguaje de programación determinado.       |
+| Prueba                        |   La etapa de prueba se encarga de identificar posibles errores en el sistema antes 
+de su puesta en uso, con el objetivo de reportarlos y corregirlos.       |
+| Puesta en marcha / Despliegue |   Se realiza la instalación del programa en las computadoras del cliente y se 
+proporciona capacitación a los usuarios para que puedan utilizar eficientemente 
+el nuevo software.          |
 
 
 * Luego responda:
